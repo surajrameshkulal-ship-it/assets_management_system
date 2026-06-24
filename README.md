@@ -94,3 +94,4 @@ Once the backend is running: **http://localhost:8000/docs**
 | Auth     | JWT + Role-Based Access Control     |
 | Database | MongoDB                             |
 | AI       | Ollama / Llama 3.2                  |
+# CodeDNA scan test
